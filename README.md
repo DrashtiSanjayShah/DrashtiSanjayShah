@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **drashtisanjayshah@gmail.com**
 
-- 👨‍💻 Portfolio **[https://drashtisanjayshah.github.io/Portfolio]**(https://drashtisanjayshah.github.io/Portfolio) 
+- 👨‍💻 Portfolio [https://drashtisanjayshah.github.io/Portfolio](https://drashtisanjayshah.github.io/Portfolio) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
